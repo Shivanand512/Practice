@@ -1,5 +1,6 @@
 This is just a simple file don't try to see what is inside this file
 
+<<<<<<< HEAD
 Adding two variables
 
 2+3
@@ -8,3 +9,5 @@ Adding two variables
 Added to Substraction future
 
 a-b
+=======
+>>>>>>> parent of 83fcb17 (This is addition feature)
